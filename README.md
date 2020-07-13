@@ -1,7 +1,7 @@
 # Hi!
 My name is Nick Young, and welcome to my Github profile! I am currently an undergraduate at Brown University studying mathematics and computer science. Feel free to check out my [website](https://n-young.xyz) for more information!
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Nick's stats](https://github-readme-stats.vercel.app/api?username=n-young)
 
  <p align="center">
    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=n-young.visitor-badge">
