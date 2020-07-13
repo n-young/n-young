@@ -4,6 +4,4 @@
 
 My name is Nick Young, and welcome to my Github profile! I am currently an undergraduate at Brown University studying mathematics and computer science. Feel free to check out my [website](https://n-young.xyz) for more information!
 
- <p align="center">
-    ![Nick's stats](https://github-readme-stats.vercel.app/api?username=n-young)
- </p>
+![Nick's stats](https://github-readme-stats.vercel.app/api?username=n-young)
